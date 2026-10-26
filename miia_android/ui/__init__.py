@@ -1,0 +1,1 @@
+"""Interfaz Kivy de MIIA."""
